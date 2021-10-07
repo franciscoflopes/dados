@@ -1,4 +1,4 @@
-{"code": "DZA", "value": null, "namept": "Argélia", "name": "Algeria"},
+[{"code": "DZA", "value": null, "namept": "Argélia", "name": "Algeria"},
 {"code": "AGO", "value": null, "namept": "Angola", "name": "Angola"},
 {"code": "BEN", "value": null, "namept": "Benin", "name": "Benin"},
 {"code": "BWA", "value": null, "namept": "Botswana", "name": "Botswana"},
@@ -197,4 +197,4 @@
 {"code": "GBR", "value": null, "namept": "Reino Unido", "name": "United Kingdom"},
 {"code": "AUS", "value": null, "namept": "Austrália", "name": "Australia"},
 {"code": "NZL", "value": null, "namept": "Nova Zelândia", "name": "New Zealand"},
-{"code": "PNG", "value": null, "namept": "Papua-Nova Guiné", "name": "Papua New Guinea"},
+{"code": "PNG", "value": null, "namept": "Papua-Nova Guiné", "name": "Papua New Guinea"}]
