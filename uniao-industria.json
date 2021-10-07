@@ -189,7 +189,7 @@
 {"code": "TTO", "value": null, "namept": "Trindade e Tobago", "name": "Trinidad and Tobago"},
 {"code": "TUN", "value": null, "namept": "Tunísia", "name": "Tunisia"},
 {"code": "TKM", "value": null, "namept": "Turquemenistão", "name": "Turkmenistan"},
-{"code": "TUR", "value": null, "namept": "Turquia", "name": "Turkey"},
+{"code": "TUR", "value": 9.6, "namept": "Turquia", "name": "Turkey"},
 {"code": "UKR", "value": null, "namept": "Ucrânia", "name": "Ukraine"},
 {"code": "UGA", "value": null, "namept": "Uganda", "name": "Uganda"},
 {"code": "URY", "value": null, "namept": "Uruguai", "name": "Uruguay"},
